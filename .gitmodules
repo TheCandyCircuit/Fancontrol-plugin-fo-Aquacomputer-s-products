@@ -1,0 +1,6 @@
+[submodule "3rdParty/HidLibrary"]
+	path = 3rdParty/HidLibrary
+	url = https://github.com/mikeobrien/HidLibrary
+[submodule "3rdParty/FanControl.Releases"]
+	path = 3rdParty/FanControl.Releases
+	url = https://github.com/Rem0o/FanControl.Releases
